@@ -1,0 +1,24 @@
+.card-body {
+    padding: 1.5rem !important;
+}
+
+.card-body p {
+    font-size: 0.9375rem;
+}
+
+.bg-label-primary {
+    padding: 8px 10px;
+}
+
+.bg-label-warning {
+    padding: 8px 10px;
+}
+
+.bg-label-danger {
+    padding: 8px 10px;
+}
+
+.bg-label-info {
+    padding: 8px 10px;
+}
+  

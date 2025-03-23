@@ -1,0 +1,27 @@
+.error-message {
+    color: red;
+    font-size: 0.875rem;
+    margin-top: 0.25rem;
+    text-align: left;
+}
+
+.top {
+    text-align: center;
+}
+
+.top .logo {
+    margin-bottom: 16px;
+}
+
+.top .logo img {
+    max-width: 75%;
+}
+
+.top h3 {
+    color: #222;
+    font-family: "Inter", sans-serif;
+    font-size: 22px;
+    font-style: normal;
+    line-height: normal;
+    margin-bottom: 10px;
+}
